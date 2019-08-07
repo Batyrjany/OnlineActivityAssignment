@@ -1,4 +1,4 @@
-package com.cybertek;
+package com.cybertek.tests.BriteERPTests;
 
 
 import com.cybertek.utilities.SeleniumUtils;
@@ -17,7 +17,7 @@ import org.testng.annotations.Test;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 
-public class Brite_ERP_CMR{
+public class Brite_ERP_CRM {
 
     WebDriver driver;
 

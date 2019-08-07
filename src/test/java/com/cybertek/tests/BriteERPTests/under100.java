@@ -1,4 +1,4 @@
-package com.cybertek;
+package com.cybertek.tests.BriteERPTests;
 
 import com.cybertek.utilities.BrowserFactory;
 import com.cybertek.utilities.SeleniumUtils;
