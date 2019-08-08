@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de303b3f-56d1-4680-b948-db0e3cd0063d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/pages/BriteERP/VerifyPriceAndTotalPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/BriteERPTests/Brite_ERP_CRM2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/Brite_ERP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/BriteERPTests/Brite_ERP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/Brite_ERP2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/BriteERPTests/Brite_ERP2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/Brite_ERP_CMR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/BriteERPTests/Brite_ERP_CRM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/Brite_ERP_CMR2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/OnlineActivityAssignment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/BriteERPTests/OnlineActivityAssignment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/under100.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/BriteERPTests/under100.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/utilities/BriteUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/utilities/BriteUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/Brite_ERP.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/Brite_ERP2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/Brite_ERP_CMR.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/Brite_ERP_CMR2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/OnlineActivityAssignment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/under100.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/utilities/BriteUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/utilities/BriteUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/BriteERPTests/Brite_ERP_CRM2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/BriteERPTests/Brite_ERP_CRM2.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -40,8 +23,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/BriteERPTests/Brite_ERP_CRM2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="438">
-              <caret line="257" column="43" selection-start-line="257" selection-start-column="43" selection-end-line="257" selection-end-column="43" />
+            <state relative-caret-position="1066">
+              <caret line="216" column="65" lean-forward="true" selection-start-line="216" selection-start-column="65" selection-end-line="216" selection-end-column="65" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -52,7 +35,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/utilities/TestBase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
+            <state relative-caret-position="300">
               <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -73,7 +56,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/BriteERPTests/OnlineActivityAssignment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
+            <state relative-caret-position="60">
               <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -85,7 +68,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/BriteERPTests/under100.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
+            <state relative-caret-position="45">
               <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -97,8 +80,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/utilities/BriteUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+            <state relative-caret-position="885">
+              <caret line="68" selection-start-line="68" selection-end-line="68" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -109,7 +92,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/pages/BriteERP/VerifyPriceAndTotalPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1259">
+            <state relative-caret-position="1170">
               <caret line="92" column="13" selection-start-line="92" selection-start-column="13" selection-end-line="92" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -121,7 +104,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/BriteERPTests/Brite_ERP.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
+            <state relative-caret-position="180">
               <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -133,7 +116,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/BriteERPTests/Brite_ERP2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
+            <state relative-caret-position="75">
               <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -145,7 +128,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/BriteERPTests/Brite_ERP_CRM.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
+            <state relative-caret-position="195">
               <caret line="27" column="43" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -167,6 +150,7 @@
     <findStrings>
       <find>#o_field_input_299</find>
       <find>//button[@class='btn btn-primary btn-sm o-kanban-button-new']</find>
+      <find>//table//tbody//tr[1]//td[3]</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -265,8 +249,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="x" value="634" />
+    <option name="y" value="-1050" />
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -274,7 +260,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -395,6 +380,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -420,7 +406,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.Brite_ERP_CRM2.ComparisonTest2">
+  <component name="RunManager" selected="TestNG.Brite_ERP_CRM2">
     <configuration name="Brite_ERP_CRM" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestAutomationSpring2019" />
       <extension name="coverage">
@@ -511,9 +497,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Brite_ERP_CRM2" />
         <item itemvalue="TestNG.Brite_ERP_CRM2.ComparisonTest2" />
         <item itemvalue="TestNG.Brite_ERP_CRM2.ComparisonTest1" />
-        <item itemvalue="TestNG.Brite_ERP_CRM2" />
         <item itemvalue="TestNG.Brite_ERP_CRM2.RfqPoInPurchaseFunctionality" />
         <item itemvalue="TestNG.Brite_ERP_CRM" />
       </list>
@@ -533,42 +519,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Brite_ERP_CRM2_ComparisonTest2 - 2019.08.07 at 14h 27m 13s.xml">
+    <history-entry file="Brite_ERP_CRM2_ComparisonTest2 - 2019.08.08 at 12h 33m 03s.xml">
       <configuration name="Brite_ERP_CRM2.ComparisonTest2" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Brite_ERP_CRM2_ComparisonTest2 - 2019.08.07 at 14h 40m 21s.xml">
+    <history-entry file="Brite_ERP_CRM2_ComparisonTest2 - 2019.08.08 at 12h 35m 12s.xml">
       <configuration name="Brite_ERP_CRM2.ComparisonTest2" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Brite_ERP_CRM2_ComparisonTest2 - 2019.08.07 at 14h 49m 25s.xml">
+    <history-entry file="Brite_ERP_CRM2_ComparisonTest2 - 2019.08.08 at 12h 39m 36s.xml">
       <configuration name="Brite_ERP_CRM2.ComparisonTest2" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Brite_ERP_CRM2_ComparisonTest2 - 2019.08.07 at 14h 50m 49s.xml">
+    <history-entry file="Brite_ERP_CRM2_ComparisonTest2 - 2019.08.08 at 12h 40m 39s.xml">
       <configuration name="Brite_ERP_CRM2.ComparisonTest2" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Brite_ERP_CRM2_ComparisonTest2 - 2019.08.07 at 14h 52m 57s.xml">
+    <history-entry file="Brite_ERP_CRM2_ComparisonTest2 - 2019.08.08 at 12h 42m 42s.xml">
       <configuration name="Brite_ERP_CRM2.ComparisonTest2" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Brite_ERP_CRM2_ComparisonTest2 - 2019.08.07 at 15h 01m 50s.xml">
+    <history-entry file="Brite_ERP_CRM2_ComparisonTest2 - 2019.08.08 at 12h 43m 58s.xml">
       <configuration name="Brite_ERP_CRM2.ComparisonTest2" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Brite_ERP_CRM2_ComparisonTest2 - 2019.08.07 at 15h 10m 08s.xml">
+    <history-entry file="Brite_ERP_CRM2_ComparisonTest2 - 2019.08.08 at 12h 48m 02s.xml">
       <configuration name="Brite_ERP_CRM2.ComparisonTest2" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Brite_ERP_CRM2_ComparisonTest2 - 2019.08.07 at 15h 15m 23s.xml">
+    <history-entry file="Brite_ERP_CRM2_ComparisonTest2 - 2019.08.08 at 12h 48m 41s.xml">
       <configuration name="Brite_ERP_CRM2.ComparisonTest2" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Brite_ERP_CRM2_ComparisonTest2 - 2019.08.07 at 15h 23m 30s.xml">
+    <history-entry file="Brite_ERP_CRM2_ComparisonTest2 - 2019.08.08 at 12h 50m 15s.xml">
       <configuration name="Brite_ERP_CRM2.ComparisonTest2" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Brite_ERP_CRM2_ComparisonTest2 - 2019.08.07 at 15h 26m 15s.xml">
+    <history-entry file="Brite_ERP_CRM2_ComparisonTest2 - 2019.08.08 at 12h 58m 50s.xml">
       <configuration name="Brite_ERP_CRM2.ComparisonTest2" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <frame x="634" y="-1050" width="1680" height="1050" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.3809524" visible="true" weight="0.20314735" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.3809524" visible="true" weight="0.2026862" />
       <window_info id="Structure" order="1" sideWeight="0.61904764" side_tool="true" weight="0.12026862" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -577,7 +563,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.50120485" side_tool="true" weight="0.21530758" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32959184" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4914163" weight="0.39638555" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4914163" visible="true" weight="0.39591837" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3988355" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1011,60 +997,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/BriteERPTests/Brite_ERP2.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/BriteERPTests/Brite_ERP_CRM2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/BriteERPTests/under100.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/BriteERPTests/OnlineActivityAssignment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/BriteERPTests/Brite_ERP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/BriteERPTests/Brite_ERP_CRM.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="43" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/utilities/BriteUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+        <state relative-caret-position="1066">
+          <caret line="216" column="65" lean-forward="true" selection-start-line="216" selection-start-column="65" selection-end-line="216" selection-end-column="65" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1073,7 +1009,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/utilities/TestBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
+        <state relative-caret-position="300">
           <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1088,9 +1024,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/BriteERPTests/OnlineActivityAssignment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/BriteERPTests/under100.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/utilities/BriteUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/pages/BriteERP/VerifyPriceAndTotalPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1259">
+        <state relative-caret-position="1170">
           <caret line="92" column="13" selection-start-line="92" selection-start-column="13" selection-end-line="92" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1098,10 +1064,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/BriteERPTests/Brite_ERP_CRM2.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/BriteERPTests/Brite_ERP.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="257" column="43" selection-start-line="257" selection-start-column="43" selection-end-line="257" selection-end-column="43" />
+        <state relative-caret-position="180">
+          <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/BriteERPTests/Brite_ERP2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/BriteERPTests/Brite_ERP_CRM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="27" column="43" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
