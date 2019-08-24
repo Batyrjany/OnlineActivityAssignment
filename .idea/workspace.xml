@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="de303b3f-56d1-4680-b948-db0e3cd0063d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/excel_io_day2/ExcelDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/excel_io_day2/ExcelDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Countries.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/Countries.xlsx" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -43,10 +44,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/excel_io_day1/ExcelReadDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/excel_io_day2/ExcelDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="74" column="56" selection-start-line="74" selection-start-column="56" selection-end-line="74" selection-end-column="56" />
+            <state relative-caret-position="462">
+              <caret line="96" column="1" selection-start-line="96" selection-start-column="1" selection-end-line="96" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -55,12 +56,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/excel_io_day2/ExcelDemo.java">
+        <entry file="file://$PROJECT_DIR$/target/test-classes/com/cybertek/tests/excel_io_day1/ExcelReadDemo.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1026">
-              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+            <state relative-caret-position="-51">
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#0#3451#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -163,7 +163,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/com/cybertek/under100.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day3/FirstAutomationScript.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day8_testng_intro/JavaTestNGDemo.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/cybertek/tests/day8_testng_intro/BeforeAndAfterTest.java" />
@@ -214,6 +213,7 @@
         <option value="$PROJECT_DIR$/src/test/java/com/cybertek/pages/BriteERP/VerifyPriceAndTotalPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/cybertek/tests/BriteERPTests/Brite_ERP_CRM2.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cybertek/tests/excel_io_day2/ExcelDemo.java" />
       </list>
     </option>
   </component>
@@ -255,6 +255,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <flattenPackages Scope="false" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -269,54 +270,47 @@
             <path>
               <item name="TestAutomationSpring2019" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="TestAutomationSpring2019" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="target" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="TestAutomationSpring2019" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="TestAutomationSpring2019" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="target" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test-classes" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="TestAutomationSpring2019" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="TestAutomationSpring2019" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="TestAutomationSpring2019" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="TestAutomationSpring2019" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="target" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test-classes" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="TestAutomationSpring2019" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="TestAutomationSpring2019" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="target" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test-classes" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="com.cybertek" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="cybertek" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="TestAutomationSpring2019" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="TestAutomationSpring2019" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="target" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test-classes" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="com.cybertek" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="cybertek" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="tests" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="TestAutomationSpring2019" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="TestAutomationSpring2019" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="target" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test-classes" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="cybertek" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="tests" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="excel_io_day1" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -359,7 +353,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.ExcelDemo.putDataIntoListOfMapsTest2">
+  <component name="RunManager" selected="TestNG.ExcelDemo.writeDataTest">
     <configuration name="Brite_ERP_CRM2" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestAutomationSpring2019" />
       <extension name="coverage">
@@ -377,53 +371,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Brite_ERP_CRM2.ComparisonTest1" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestAutomationSpring2019" />
+    <configuration name="ExcelDemo.putDataIntoListOfMapsTest2 (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.BriteERPTests.*" />
+          <option name="PATTERN" value="com.cybertek.tests.excel_io_day2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.BriteERPTests.Brite_ERP_CRM2" />
-      <option name="METHOD_NAME" value="ComparisonTest1" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Brite_ERP_CRM2.ComparisonTest2" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestAutomationSpring2019" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.BriteERPTests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.BriteERPTests.Brite_ERP_CRM2" />
-      <option name="METHOD_NAME" value="ComparisonTest2" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Brite_ERP_CRM2.RfqPoInPurchaseFunctionality" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestAutomationSpring2019" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.BriteERPTests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.BriteERPTests.Brite_ERP_CRM2" />
-      <option name="METHOD_NAME" value="RfqPoInPurchaseFunctionality" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.excel_io_day2.ExcelDemo" />
+      <option name="METHOD_NAME" value="putDataIntoListOfMapsTest2" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -449,13 +406,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ExcelDemo.writeDataTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cybertek.tests.excel_io_day2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.excel_io_day2.ExcelDemo" />
+      <option name="METHOD_NAME" value="writeDataTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExcelReadDemo.readExcelFileRowAndColTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cybertek.tests.excel_io_day1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.excel_io_day1.ExcelReadDemo" />
+      <option name="METHOD_NAME" value="readExcelFileRowAndColTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.ExcelDemo.writeDataTest" />
+        <item itemvalue="TestNG.ExcelDemo.putDataIntoListOfMapsTest2 (1)" />
+        <item itemvalue="TestNG.ExcelReadDemo.readExcelFileRowAndColTest" />
         <item itemvalue="TestNG.ExcelDemo.putDataIntoListOfMapsTest2" />
         <item itemvalue="TestNG.Brite_ERP_CRM2" />
-        <item itemvalue="TestNG.Brite_ERP_CRM2.ComparisonTest2" />
-        <item itemvalue="TestNG.Brite_ERP_CRM2.ComparisonTest1" />
-        <item itemvalue="TestNG.Brite_ERP_CRM2.RfqPoInPurchaseFunctionality" />
       </list>
     </recent_temporary>
   </component>
@@ -473,9 +464,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Brite_ERP_CRM2_ComparisonTest2 - 2019.08.08 at 12h 35m 12s.xml">
-      <configuration name="Brite_ERP_CRM2.ComparisonTest2" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="Brite_ERP_CRM2_ComparisonTest2 - 2019.08.08 at 12h 39m 36s.xml">
       <configuration name="Brite_ERP_CRM2.ComparisonTest2" configurationId="TestNG" />
     </history-entry>
@@ -503,9 +491,13 @@
     <history-entry file="ExcelDemo_putDataIntoListOfMapsTest2 - 2019.08.24 at 11h 35m 48s.xml">
       <configuration name="ExcelDemo.putDataIntoListOfMapsTest2" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="ExcelDemo_putDataIntoListOfMapsTest2 - 2019.08.24 at 11h 50m 38s.xml">
+      <configuration name="ExcelDemo.putDataIntoListOfMapsTest2" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="634" y="-1027" width="1680" height="1027" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.3809524" visible="true" weight="0.21428572" />
       <window_info id="Structure" order="1" sideWeight="0.61904764" side_tool="true" weight="0.12026862" />
@@ -521,7 +513,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.20566319" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.20565833" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50858366" side_tool="true" weight="0.47142857" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32959184" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49213162" weight="0.2" />
@@ -564,32 +556,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/day8_testng_intro/BeforeAndAfterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#644#645#0" expanded="true" />
-            <element signature="e#723#724#0" expanded="true" />
-            <element signature="e#778#779#0" expanded="true" />
-            <element signature="e#815#816#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/day8_testng_intro/JavaTestNGDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#620#621#0" expanded="true" />
-            <element signature="e#661#662#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/day9/AbsoluteXpathDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -1039,10 +1005,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/excel_io_day2/ExcelDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1026">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        <state relative-caret-position="462">
+          <caret line="96" column="1" selection-start-line="96" selection-start-column="1" selection-end-line="96" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/excel_io_day1/ExcelReadDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="74" column="56" selection-start-line="74" selection-start-column="56" selection-end-line="74" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/test-classes/com/cybertek/tests/excel_io_day1/ExcelReadDemo.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51">
+          <folding>
+            <element signature="e#0#3451#0" expanded="true" />
           </folding>
         </state>
       </provider>
