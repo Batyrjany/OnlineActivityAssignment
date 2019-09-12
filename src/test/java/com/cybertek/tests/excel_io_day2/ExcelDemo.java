@@ -16,7 +16,7 @@ import java.util.Map;
 
 public class ExcelDemo {
 
-    //to create on object that will store excel file
+
     Workbook workbook;
     //to create an object that will store specific sheet
     Sheet sheet;
