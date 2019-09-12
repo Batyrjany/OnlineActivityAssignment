@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de303b3f-56d1-4680-b948-db0e3cd0063d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Countries.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Countries.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/TestAutomationSpring2019.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/~$Countries.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/excel_io_day2/ExcelDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/excel_io_day2/ExcelDemo.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -192,7 +188,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
