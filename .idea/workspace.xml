@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+
     <list default="true" id="de303b3f-56d1-4680-b948-db0e3cd0063d" name="Default Changelist" comment="" />
+
+    <list default="true" id="de303b3f-56d1-4680-b948-db0e3cd0063d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/excel_io_day2/ExcelDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/excel_io_day2/ExcelDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Countries.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/Countries.xlsx" afterDir="false" />
+    </list>
+
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +52,16 @@
       </MavenImportingSettings>
     </option>
   </component>
+
   <component name="ProjectId" id="1Qit0eceZbv227MqCU586UCuBgD" />
+
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="763" />
+    <option name="y" value="-968" />
+    <option name="width" value="1327" />
+    <option name="height" value="779" />
+  </component>
+
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -181,6 +198,7 @@
     </task>
     <servers />
   </component>
+
   <component name="TestHistory">
     <history-entry file="Brite_ERP_CRM2_ComparisonTest2 - 2019.08.08 at 12h 39m 36s.xml">
       <configuration name="Brite_ERP_CRM2.ComparisonTest2" configurationId="TestNG" />
@@ -226,6 +244,7 @@
       </map>
     </option>
   </component>
+
   <component name="masterDetails">
     <states>
       <state key="ArtifactsStructureConfigurable.UI">

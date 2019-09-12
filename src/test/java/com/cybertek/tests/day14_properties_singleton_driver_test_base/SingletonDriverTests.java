@@ -10,6 +10,6 @@ public class SingletonDriverTests {
     public void test1(){
         Driver.getDriver().get("http://google.com");
         SeleniumUtils.waitPlease(2);
-        Driver.closeDriver(); // to completely shutdown driver
+        Driver.closeDriver();
     }
 }
