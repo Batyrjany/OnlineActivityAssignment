@@ -5,9 +5,7 @@
     <list default="true" id="de303b3f-56d1-4680-b948-db0e3cd0063d" name="Default Changelist" comment="" />
 
     <list default="true" id="de303b3f-56d1-4680-b948-db0e3cd0063d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/excel_io_day2/ExcelDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/excel_io_day2/ExcelDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/Countries.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/Countries.xlsx" afterDir="false" />
     </list>
 
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,6 +51,9 @@
     </option>
   </component>
 
+  <component name="ProjectId" id="1QiseSZBVYkhYJqsFWEVtHDoFSV" />
+
+
   <component name="ProjectId" id="1Qit0eceZbv227MqCU586UCuBgD" />
 
   <component name="ProjectFrameBounds" extendedState="6">
@@ -88,24 +89,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.ExcelDemo.writeDataTest">
-    <configuration name="Brite_ERP_CRM2" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestAutomationSpring2019" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.BriteERPTests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.BriteERPTests.Brite_ERP_CRM2" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.SingletonDriverTests.test1">
     <configuration name="ExcelDemo.putDataIntoListOfMapsTest2 (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage">
         <pattern>
@@ -175,13 +159,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SingletonDriverTests.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OnlineActivityAssignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cybertek.tests.day14_properties_singleton_driver_test_base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cybertek.tests.day14_properties_singleton_driver_test_base" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.day14_properties_singleton_driver_test_base.SingletonDriverTests" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.SingletonDriverTests.test1" />
         <item itemvalue="TestNG.ExcelDemo.writeDataTest" />
         <item itemvalue="TestNG.ExcelDemo.putDataIntoListOfMapsTest2 (1)" />
         <item itemvalue="TestNG.ExcelReadDemo.readExcelFileRowAndColTest" />
         <item itemvalue="TestNG.ExcelDemo.putDataIntoListOfMapsTest2" />
-        <item itemvalue="TestNG.Brite_ERP_CRM2" />
       </list>
     </recent_temporary>
   </component>
@@ -198,6 +200,8 @@
     </task>
     <servers />
   </component>
+
+
 
   <component name="TestHistory">
     <history-entry file="Brite_ERP_CRM2_ComparisonTest2 - 2019.08.08 at 12h 39m 36s.xml">
@@ -231,6 +235,7 @@
       <configuration name="ExcelDemo.putDataIntoListOfMapsTest2" configurationId="TestNG" />
     </history-entry>
   </component>
+
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
