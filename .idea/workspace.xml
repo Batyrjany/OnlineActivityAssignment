@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+
+    <list default="true" id="de303b3f-56d1-4680-b948-db0e3cd0063d" name="Default Changelist" comment="" />
+
     <list default="true" id="de303b3f-56d1-4680-b948-db0e3cd0063d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/excel_io_day2/ExcelDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/excel_io_day2/ExcelDemo.java" afterDir="false" />
     </list>
+
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,10 +50,23 @@
       </MavenImportingSettings>
     </option>
   </component>
+
   <component name="ProjectId" id="1QiseSZBVYkhYJqsFWEVtHDoFSV" />
+
+
+  <component name="ProjectId" id="1Qit0eceZbv227MqCU586UCuBgD" />
+
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="763" />
+    <option name="y" value="-968" />
+    <option name="width" value="1327" />
+    <option name="height" value="779" />
+  </component>
+
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="findjar.last.used.dir" value="/Applications/Google Chrome.app" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.1150748" />
@@ -183,6 +200,42 @@
     </task>
     <servers />
   </component>
+
+
+
+  <component name="TestHistory">
+    <history-entry file="Brite_ERP_CRM2_ComparisonTest2 - 2019.08.08 at 12h 39m 36s.xml">
+      <configuration name="Brite_ERP_CRM2.ComparisonTest2" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Brite_ERP_CRM2_ComparisonTest2 - 2019.08.08 at 12h 40m 39s.xml">
+      <configuration name="Brite_ERP_CRM2.ComparisonTest2" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Brite_ERP_CRM2_ComparisonTest2 - 2019.08.08 at 12h 42m 42s.xml">
+      <configuration name="Brite_ERP_CRM2.ComparisonTest2" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Brite_ERP_CRM2_ComparisonTest2 - 2019.08.08 at 12h 43m 58s.xml">
+      <configuration name="Brite_ERP_CRM2.ComparisonTest2" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Brite_ERP_CRM2_ComparisonTest2 - 2019.08.08 at 12h 48m 02s.xml">
+      <configuration name="Brite_ERP_CRM2.ComparisonTest2" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Brite_ERP_CRM2_ComparisonTest2 - 2019.08.08 at 12h 48m 41s.xml">
+      <configuration name="Brite_ERP_CRM2.ComparisonTest2" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Brite_ERP_CRM2_ComparisonTest2 - 2019.08.08 at 12h 50m 15s.xml">
+      <configuration name="Brite_ERP_CRM2.ComparisonTest2" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Brite_ERP_CRM2_ComparisonTest2 - 2019.08.08 at 12h 58m 50s.xml">
+      <configuration name="Brite_ERP_CRM2.ComparisonTest2" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ExcelDemo_putDataIntoListOfMapsTest2 - 2019.08.24 at 11h 35m 48s.xml">
+      <configuration name="ExcelDemo.putDataIntoListOfMapsTest2" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ExcelDemo_putDataIntoListOfMapsTest2 - 2019.08.24 at 11h 50m 38s.xml">
+      <configuration name="ExcelDemo.putDataIntoListOfMapsTest2" configurationId="TestNG" />
+    </history-entry>
+  </component>
+
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -196,6 +249,7 @@
       </map>
     </option>
   </component>
+
   <component name="masterDetails">
     <states>
       <state key="ArtifactsStructureConfigurable.UI">
